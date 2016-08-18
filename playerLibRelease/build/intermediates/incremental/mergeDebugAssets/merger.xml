@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="G:\AndroidStudio2.0Projects\LiveStartDemo\playerLibRelease\src\main\assets"/><source path="G:\AndroidStudio2.0Projects\LiveStartDemo\playerLibRelease\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="G:\AndroidStudio2.0Projects\LiveStartDemo\playerLibRelease\src\debug\assets"/></dataSet></merger>

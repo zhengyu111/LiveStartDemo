@@ -1,0 +1,110 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        layout="@layout/header" />
+
+    <LinearLayout style="@style/downLinearLayout" >
+
+        <TextView
+            style="@style/vodTextView"
+            android:text="uu:" />
+
+        <EditText
+            android:id="@+id/et_uu1"
+            style="@style/vodEditText" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/vod_uuid"
+        style="@style/downLinearLayout" >
+
+        <TextView
+            style="@style/vodTextView"
+            android:text="vu:" />
+
+        <EditText
+            android:id="@+id/et_vu1"
+            style="@style/vodEditText" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/download1"
+        style="@style/downbtn"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="12dp"
+        android:text="下载1" />
+
+    <LinearLayout style="@style/downLinearLayout" >
+
+        <TextView
+            style="@style/vodTextView"
+            android:text="uu:" />
+
+        <EditText
+            android:id="@+id/et_uu2"
+            style="@style/vodEditText" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/downLinearLayout" >
+
+        <TextView
+            style="@style/vodTextView"
+            android:text="vu:" />
+
+        <EditText
+            android:id="@+id/et_vu2"
+            style="@style/vodEditText" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/download2"
+        style="@style/downbtn"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="12dp"
+        android:text="下载2" />
+
+    <LinearLayout style="@style/downLinearLayout" >
+
+        <TextView
+            style="@style/vodTextView"
+            android:text="uu:" />
+
+        <EditText
+            android:id="@+id/et_uu3"
+            style="@style/vodEditText" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/downLinearLayout" >
+
+        <TextView
+            style="@style/vodTextView"
+            android:text="vu:" />
+
+        <EditText
+            android:id="@+id/et_vu3"
+            style="@style/vodEditText" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/download3"
+        style="@style/downbtn"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="12dp"
+        android:text="下载3" />
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</LinearLayout>

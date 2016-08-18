@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="G:\AndroidStudio2.0Projects\LiveStartDemo\leRecorderSkin\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="G:\AndroidStudio2.0Projects\LiveStartDemo\leRecorderSkin\src\androidTest\assets"/><source path="G:\AndroidStudio2.0Projects\LiveStartDemo\leRecorderSkin\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="letv_recorder_background_gray">#70000000</color>
+    <color name="letv_recorder_dialog_button_background">#1074C2</color>
+    <color name="letv_recorder_fade_background">#50BA68C8</color>
+    <color name="letv_recorder_text_blue_color">#1073C2</color>
+    <color name="letv_recorder_text_color">#ffffff</color>
+    <dimen name="letv_recorder_bottom_text_size">16sp</dimen>
+    <dimen name="letv_recorder_change_cam_margin">20dp</dimen>
+    <dimen name="letv_recorder_left_arraw_margin">10dp</dimen>
+    <dimen name="letv_recorder_machine_item_gap">10dp</dimen>
+    <dimen name="letv_recorder_machine_item_width">90dp</dimen>
+    <dimen name="letv_recorder_top_title_size">16sp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">LetvRecorderSkin</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="letvRecorderDialog" parent="android:style/Theme.Dialog">  
+        <!--背景颜色及透明程度-->  
+        <item name="android:windowBackground">@android:color/transparent</item>  
+        <!--是否有标题 -->  
+        <item name="android:windowNoTitle">true</item>  
+        <!--是否浮现在activity之上-->  
+        <item name="android:windowIsFloating">true</item>  
+        <!--是否模糊-->  
+        <item name="android:backgroundDimEnabled">true</item>
+        <!--去边框 -->
+        <item name="android:windowFrame">@null</item>
+    </style>
+</resources>

@@ -1,0 +1,391 @@
+[
+    {
+        "outputFile": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 58,
+                        "endOffset": 528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 55,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 55,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 55,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 55,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 56,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 56,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 55,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 55,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 55,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 55,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 55,
+                        "endOffset": 219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endColumn": 55,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 55,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 72,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 533,
+                        "endColumn": 72,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1159,
+                    "endColumn": 57,
+                    "endOffset": 1212
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1217,
+                    "endColumn": 55,
+                    "endOffset": 1268
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1273,
+                    "endColumn": 64,
+                    "endOffset": 1333
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 64,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1338,
+                    "endColumn": 63,
+                    "endOffset": 1397
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 63,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1402,
+                    "endColumn": 66,
+                    "endOffset": 1464
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 66,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1469,
+                    "endColumn": 64,
+                    "endOffset": 1529
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 64,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1534,
+                    "endColumn": 47,
+                    "endOffset": 1577
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 47,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1582,
+                    "endColumn": 76,
+                    "endOffset": 1654
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 76,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1659,
+                    "endColumn": 71,
+                    "endOffset": 1726
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 71,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1731,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 2017
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2022,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 2177
+                },
+                "from": {
+                    "file": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

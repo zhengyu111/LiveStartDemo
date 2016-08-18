@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/header" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="43dp"
+        android:layout_marginStart="43dp"
+        android:layout_marginTop="25dp"
+        android:minHeight="41dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/vodId"
+            style="@style/tabBtnAtrr"
+            android:background="@drawable/btn_left_selected"
+            android:text="@string/playId"
+            android:textColor="@drawable/textcolor_selector" />
+
+        <Button
+            android:id="@+id/vodPath"
+            style="@style/tabBtnAtrr"
+            android:layout_marginLeft="-1dp"
+            android:background="@drawable/btn_right_selected"
+            android:text="@string/play_Path"
+            android:textColor="@drawable/textcolor_selector" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/vod_uuid"
+        style="@style/vodLinearLayout" >
+
+        <TextView
+            style="@style/vodTextView"
+            android:text="@string/uuid" />
+
+        <EditText
+            android:id="@+id/uuid_content"
+            style="@style/vodEditText" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/vod_vuid"
+        style="@style/vodLinearLayout" >
+
+        <TextView
+            style="@style/vodTextView"
+            android:text="@string/vuid" />
+
+        <EditText
+            android:id="@+id/vuid_content"
+            style="@style/vodEditText" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/vod_playPath"
+        style="@style/vodLinearLayout"
+        android:visibility="gone" >
+
+        <TextView
+            style="@style/vodTextView"
+            android:text="播放地址:" />
+
+        <EditText
+            android:id="@+id/vodPath_content"
+            style="@style/vodEditText" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/startVod"
+        style="@style/playbtn"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="82dp"
+        android:text="@string/start_vod" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="btn_stroke">#746C77</color>
+    <color name="btn_selected">#DDDDDD</color>
+    <color name="black">#FFFFFF</color>
+    <color name="trans">#99746C77</color>
+    <color name="blue">#6A42EC</color>
+    <color name="blue_tran">#CC6A42EC</color>
+</resources>

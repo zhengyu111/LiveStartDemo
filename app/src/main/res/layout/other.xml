@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/header"
+        android:layout_marginBottom="30dp" />
+
+    <Button
+        android:id="@+id/adtest"
+        style="@style/BtnAttr"
+        android:visibility="gone"
+        android:text="@string/pop_test" />
+
+    <Button
+        android:id="@+id/video_list"
+        style="@style/BtnAttr"
+        android:visibility="gone"
+        android:text="@string/video_list" />
+
+    <Button
+        android:id="@+id/two_player"
+        style="@style/BtnAttr"
+        android:visibility="gone"
+        android:text="@string/two_player" />
+
+    <Button
+        android:id="@+id/download_list"
+        style="@style/BtnAttr"
+        android:text="@string/download_list" />
+
+</LinearLayout>

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_line04.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_line04.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_btn_touch.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_btn_touch.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_btn_chgscreen_small.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_btn_chgscreen_small.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_line07.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_line07.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_line01.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_line01.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_forward.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_forward.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_back_to_live.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_back_to_live.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_btn_play.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_btn_play.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_btn_chgscreen_large.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_btn_chgscreen_large.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_btn_move.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_btn_move.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_line05.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_line05.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_rewind.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_rewind.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_letv_iv_loading_image.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_letv_iv_loading_image.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_line06.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_line06.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_logo.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_logo.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_new_seek_bar_thumb.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_new_seek_bar_thumb.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_btn_download.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_btn_download.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_line03.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_line03.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_line02.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_line02.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\letv_skin_v4_btn_pause.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_btn_pause.png"
+    }
+]

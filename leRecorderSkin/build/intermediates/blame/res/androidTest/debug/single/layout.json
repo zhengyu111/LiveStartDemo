@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\letv_recorder_bottom_float_layout.xml",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\layout\\letv_recorder_bottom_float_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main3.xml",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\letv_recorder_debug_view.xml",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\layout\\letv_recorder_debug_view.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_test.xml",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\letv_recorder_main_layout.xml",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\layout\\letv_recorder_main_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\letv_recorder_machine_layout.xml",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\layout\\letv_recorder_machine_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\letv_recorder_bottom_float_mobile_layout.xml",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\layout\\letv_recorder_bottom_float_mobile_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\letv_recorder_top_float_mobile_layout.xml",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\layout\\letv_recorder_top_float_mobile_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\letv_recorder_common_dialog.xml",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\layout\\letv_recorder_common_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\letv_recorder_top_float_layout.xml",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\layout\\letv_recorder_top_float_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\letv_recorder_machine_item.xml",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\layout\\letv_recorder_machine_item.xml"
+    }
+]

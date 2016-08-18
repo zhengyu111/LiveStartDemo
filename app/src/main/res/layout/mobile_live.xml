@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/header" />
+
+    <LinearLayout
+        style="@style/vodLinearLayout" >
+
+        <TextView
+            style="@style/vodTextView"
+            android:text="播放地址:" />
+
+        <EditText
+            android:id="@+id/path_content"
+            style="@style/vodEditText" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/startMobileLive"
+        style="@style/playbtn"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="82dp"
+        android:text="移动直播" />
+
+</LinearLayout>

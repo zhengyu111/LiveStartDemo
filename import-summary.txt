@@ -1,0 +1,43 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* build.xml
+* ic_launcher-web.png
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => leRecorderSkin\src\main\AndroidManifest.xml
+* assets\ => leRecorderSkin\src\main\assets
+* libs\armeabi-v7a\libfdk-aac.so => leRecorderSkin\src\main\jniLibs\armeabi-v7a\libfdk-aac.so
+* libs\armeabi-v7a\libffmpeg_neon.so => leRecorderSkin\src\main\jniLibs\armeabi-v7a\libffmpeg_neon.so
+* libs\armeabi-v7a\libfilters.so => leRecorderSkin\src\main\jniLibs\armeabi-v7a\libfilters.so
+* libs\armeabi-v7a\librecorder.so => leRecorderSkin\src\main\jniLibs\armeabi-v7a\librecorder.so
+* libs\armeabi-v7a\libtransmitter.so => leRecorderSkin\src\main\jniLibs\armeabi-v7a\libtransmitter.so
+* libs\lecloud_Android_mobile_live_push_SDK_v1.1.0_stable.jar => leRecorderSkin\libs\lecloud_Android_mobile_live_push_SDK_v1.1.0_stable.jar
+* res\ => leRecorderSkin\src\main\res\
+* src\ => leRecorderSkin\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

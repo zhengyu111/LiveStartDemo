@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_mult_live_shape">#ff1073BF</color>
+    <color name="download_btn_enable">#e57d7d7d</color>
+    <color name="download_btn_normal">#cc000000</color>
+    <color name="download_btn_pressed">#e5198fdd</color>
+    <color name="letv_color_b3000000">#b3000000</color>
+    <color name="letv_color_ff00a0e9">#ff00a0e9</color>
+    <color name="letv_color_fff6f6f6">#fff6f6f6</color>
+    <color name="letv_color_ffffffff">#ffffffff</color>
+    <color name="letv_skin_vnew_controller_background">#c0000000</color>
+    <declare-styleable name="ProgressWheel"><attr format="boolean" name="matProg_progressIndeterminate"/><attr format="color" name="matProg_barColor"/><attr format="color" name="matProg_rimColor"/><attr format="dimension" name="matProg_rimWidth"/><attr format="float" name="matProg_spinSpeed"/><attr format="integer" name="matProg_barSpinCycleTime"/><attr format="dimension" name="matProg_circleRadius"/><attr format="boolean" name="matProg_fillRadius"/><attr format="dimension" name="matProg_barWidth"/><attr format="boolean" name="matProg_linearProgress"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="letv_skin_v4_ratetype_item_height">30dp</dimen>
+    <dimen name="letv_skin_v4_ratetype_item_width">55dp</dimen>
+    <dimen name="letv_skin_v4_volume_seekbar_height">130dp</dimen>
+    <dimen name="letv_skin_v4_volume_seekbar_width">35dp</dimen>
+    <string name="app_name">playerskin</string>
+    <string name="letv_network_message">(>﹏&lt;)当前网络处于非wifi状态，请检查网络</string>
+    <string name="letv_notice_message">(>﹏&lt;)播放失败了，重新播放一下试试？</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

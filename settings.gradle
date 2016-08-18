@@ -1,0 +1,4 @@
+include ':app'
+include ':playerLibRelease'
+include ':playerskin'
+include ':leRecorderSkin'

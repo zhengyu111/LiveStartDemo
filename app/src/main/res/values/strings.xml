@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LiveStartDemo</string>
+
+    <string name="home_title">播放SDK</string>
+    <string name="vod_hasSkin">点播播放器（有皮肤）</string>
+    <string name="vod_noSkin">点播播放器（无皮肤）</string>
+    <string name="live_hasSkin">直播播放器（有皮肤）</string>
+    <string name="live_noSkin">直播播放器（无皮肤）</string>
+    <string name="active_player_hasSkin">活动播放器（有皮肤）</string>
+    <string name="active_player_noSkin">活动播放器（无皮肤）</string>
+    <string name="mobile_player_hasSkin">移动直播播放器（有皮肤）</string>
+    <string name="mobile_player_noSkin">移动直播播放器（无皮肤）</string>
+    <string name="other">其他</string>
+    <string name="description">说明</string>
+    <string name="versionCode">版本号:2.3.5</string>
+    <string name="liveId">liveId</string>
+    <string name="streamId">streamId</string>
+    <string name="play_Path">播放地址</string>
+    <string name="domain">播放地址:</string>
+    <string name="start_live">直播</string>
+    <string name="start_vod">点播</string>
+    <string name="rtmp">支持rtmp</string>
+    <string name="hls">支持hls</string>
+    <string name="playId">播放ID</string>
+    <string name="uuid">UUid:</string>
+    <string name="vuid">VUid:</string>
+    <string name="activeId">活动ID:</string>
+    <string name="active_live">活动直播</string>
+    <string name="pop_test">广告测试</string>
+    <string name="video_list">列表视频展示</string>
+    <string name="two_player">启动双播放器</string>
+    <string name="download_list">查看下载列表</string>
+    <string name="live_ID">直播ID:</string>
+    <string name="xianzhi">0123456789abcdefghigklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+</resources>

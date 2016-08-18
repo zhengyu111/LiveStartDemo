@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        layout="@layout/header" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/trans"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/vod_uuid"
+            style="@style/downLinearLayout" >
+
+            <TextView
+                style="@style/vodTextView"
+                android:text="uu:" />
+
+            <EditText
+                android:id="@+id/uu_content1"
+                style="@style/vodEditText" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/vod_uuid"
+            style="@style/downLinearLayout" >
+
+            <TextView
+                style="@style/vodTextView"
+                android:text="vu:" />
+
+            <EditText
+                android:id="@+id/vu_content1"
+                style="@style/vodEditText" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/down_progress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp" >
+
+            <TextView
+                android:id="@+id/file_name"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="fileName" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/file_name" >
+
+                <TextView
+                    android:id="@+id/progress_value"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:text="progress" />
+
+                <ProgressBar
+                    android:id="@+id/progressBar1"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="20dp"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@id/progress_value"
+                    android:progress="50" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginEnd="45dp"
+            android:layout_marginStart="45dp" >
+
+            <Button
+                android:id="@+id/startDownload1"
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/play_btn_bg"
+                android:text="下载"
+                android:textColor="@android:color/white" />
+
+            <Button
+                android:id="@+id/startPlay1"
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="45dp"
+                android:background="@drawable/play_btn_bg"
+                android:text="继续"
+                android:textColor="@android:color/white" />
+
+            <Button
+                android:id="@+id/delete1"
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="45dp"
+                android:background="@drawable/play_btn_bg"
+                android:text="删除"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

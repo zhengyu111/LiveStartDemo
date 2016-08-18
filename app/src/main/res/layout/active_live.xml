@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/black"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:minHeight="22dp"
+            android:paddingBottom="4dp"
+            android:paddingTop="4dp"
+            android:src="@drawable/back" />
+
+        <TextView
+            android:id="@+id/vodTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="71dp"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="@string/active_player_hasSkin"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/vodLinearLayout" >
+
+        <TextView
+            style="@style/vodTextView"
+            android:text="@string/activeId" />
+
+        <EditText
+            android:id="@+id/uuid_content"
+            style="@style/vodEditText" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/startLive"
+        style="@style/playbtn"
+        android:layout_marginTop="82dp"
+        android:text="@string/active_live" />
+
+</LinearLayout>

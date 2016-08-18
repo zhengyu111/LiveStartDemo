@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_change_blue.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_change_blue.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_arrow.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_arrow.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_angle_white.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_angle_white.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_angle_blue.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_angle_blue.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_angle_gray.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_angle_gray.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_flash_close_gray.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_flash_close_gray.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_flash_white.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_flash_white.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_postposition_camera.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_postposition_camera.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_open.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_open.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_change_white.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_change_white.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_mic_blue.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_mic_blue.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_flash_blue.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_flash_blue.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_voise_open.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_voise_open.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_set.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_set.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_people.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_people.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_mic_white.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_mic_white.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_flash_gray.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_flash_gray.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_rate_button.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_rate_button.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_thumd.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_thumd.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_flash_light_close.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_flash_light_close.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_stop.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_stop.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_voise_close.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_voise_close.png"
+    },
+    {
+        "merged": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\letv_recorder_flash_light_open.png",
+        "source": "G:\\AndroidStudio2.0Projects\\LiveStartDemo\\leRecorderSkin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\letv_recorder_flash_light_open.png"
+    }
+]
